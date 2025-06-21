@@ -1,1 +1,1 @@
-# odin-recipes
+A recipe website designed to hone and develop my web development skills as part of The Odin Project. 
